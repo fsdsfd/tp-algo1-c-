@@ -1,0 +1,10 @@
+/home/tomas/Descargas/ExMetodosVirtuales/ExMetodosVirtuales/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/tomas/Descargas/ExMetodosVirtuales/ExMetodosVirtuales/obj/x86/Debug/Figuras.Form1.resources
+/home/tomas/Descargas/ExMetodosVirtuales/ExMetodosVirtuales/obj/x86/Debug/ExMetodosVirtuales.Properties.Resources.resources
+/home/tomas/Descargas/ExMetodosVirtuales/ExMetodosVirtuales/bin/Debug/ExMetodosVirtuales.exe.config
+/home/tomas/Descargas/ExMetodosVirtuales/ExMetodosVirtuales/bin/Debug/ExMetodosVirtuales.exe.mdb
+/home/tomas/Descargas/ExMetodosVirtuales/ExMetodosVirtuales/bin/Debug/ExMetodosVirtuales.pdb
+/home/tomas/Descargas/ExMetodosVirtuales/ExMetodosVirtuales/bin/Debug/ExMetodosVirtuales.exe
+/home/tomas/Descargas/ExMetodosVirtuales/ExMetodosVirtuales/obj/x86/Debug/ExMetodosVirtuales.exe
+/home/tomas/Descargas/ExMetodosVirtuales/ExMetodosVirtuales/obj/x86/Debug/ExMetodosVirtuales.exe.mdb
+/home/tomas/Descargas/ExMetodosVirtuales/ExMetodosVirtuales/obj/x86/Debug/ExMetodosVirtuales.pdb
