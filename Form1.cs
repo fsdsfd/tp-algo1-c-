@@ -25,11 +25,17 @@ namespace Figuras
         private void button1_Click(object sender, EventArgs e)
         {
             Graphics gr = pictureBox1.CreateGraphics();
-Color[] colores = { Color.Red, Color.Blue, Color.Green };
+Random rnd = new Random();
 
 for (int i = 0; i < figuras.Length; i++)
 {
-    Pen pen = new Pen(colores[i]);
+    Color colorRandom = Color.FromArgb(
+        rnd.Next(256),
+        rnd.Next(256),
+        rnd.Next(256)
+    );
+
+    Pen pen = new Pen(colorRandom);
     figuras[i].Dibujar(pen, gr, i * 100, 50);
 }
 
